@@ -1,9 +1,9 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "https://github.com/tylercooksrice/Lab8-Starter",
+    "short_name": "Tyler",
     "description": "",
     "start_url": "",
-    "display": "",
+    "display": "standalone",
     "background_color": "",
     "theme_color": "",
     "icons": [
